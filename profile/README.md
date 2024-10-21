@@ -8,7 +8,7 @@
 
 🪲  You have found a bug in one of our tools? Please report a new issue.
 
-👩‍💻  You find an overview of all our published and finished (or at least beta) projects on our github overview page: [tbd](https://cevi.tools).
+👩‍💻  You wanna have an overview of all our published and finished (or at least beta) projects on our github overview page: [cevi.tools](https://cevi.tools).
 
 🍿  Did you know that the [YMCA](https://www.ymca.int/) is the biggest youth organisation in the world?
 
